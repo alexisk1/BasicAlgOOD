@@ -1,2 +1,2 @@
 # BasicAlgOOD
-A variety of algorithmic or Object-oriented programming Problems 
+A variety of algorithmic and Object-oriented programming Problems 
